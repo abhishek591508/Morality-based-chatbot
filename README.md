@@ -1,6 +1,6 @@
 ## Morality Based Chatbot
 
-**Developed during internship at IIT Mandi, currently being used for data collection purpose.
+** Developed during internship at IIT Mandi, currently being used for data collection purpose.
 
 <img width="890" height="780" alt="image" src="https://github.com/user-attachments/assets/28f7bfb6-2fbd-429c-b18e-841b23cf41bd" />
 
